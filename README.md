@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/2b0a3b9b-f932-47df-893f-0d0416460b1f)
 Slider Animation - Modelo Fullstack
 
 Este projeto é um site de apresentação de produtos com animação de slider, desenvolvido como parte do meu aprendizado em desenvolvimento web fullstack. O objetivo é demonstrar habilidades em HTML, CSS e JavaScript, criando uma interface moderna e responsiva.
@@ -31,4 +32,3 @@ img/
 ## Demonstração
 
 Veja o site funcionando https://c2002g.github.io/Slider-Animation/.
-![Image](https://github.com/user-attachments/assets/2b0a3b9b-f932-47df-893f-0d0416460b1f)
