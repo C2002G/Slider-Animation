@@ -8,7 +8,8 @@ const list = document.querySelector(".list");
 
 let active = 0;
 const total = items.length;
-let timer;
+let timer; 
+
 
 function update(direction) {
   document.querySelector(".item.active").classList.remove("active");

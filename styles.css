@@ -185,6 +185,7 @@ header nav ul li:hover:after {
   font-weight: 600;
   letter-spacing: 2px;
   margin-bottom: 10px;
+  
 /* animacao */
   transform: translateX(400px);
   opacity: 0;
